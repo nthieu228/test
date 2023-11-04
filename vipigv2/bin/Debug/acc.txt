@@ -1,0 +1,4 @@
+user_vipig=test228;
+pass_vipig=hiu123;
+user_ins=nguyenhieu7945;
+pass_ins=@nguyentrunghieu@;
